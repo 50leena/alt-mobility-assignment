@@ -1,0 +1,5 @@
+payment_status,total_payments,avg_payment
+pending,5006,254.375353575709
+failed,5003,254.570995402758
+completed,4991,251.870396714085
+payment_status,1,0.0
